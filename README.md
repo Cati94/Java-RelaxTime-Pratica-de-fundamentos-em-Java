@@ -4,6 +4,11 @@ Repositório com exercícios introdutórios em **Java**, criados com o objetivo 
 
 ---
 
+
+![Ilustração](https://github.com/Cati94/Java-RelaxTime-Pratica-de-fundamentos-em-Java/blob/main/java.png)
+
+
+
 ## 🔹 Conteúdo incluído
 
 * `hello world.java` → Primeiro programa com saída no terminal
